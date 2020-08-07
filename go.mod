@@ -1,4 +1,4 @@
-module wraith
+module github.com/absane/wraith
 
 go 1.14
 
