@@ -1,4 +1,4 @@
-module gitrob
+module wraith
 
 go 1.14
 
